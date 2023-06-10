@@ -5,4 +5,4 @@ Microsoft Excel shows the visualiztion of the Data and the PowerPoint consist of
 
 
 
-![My Image](VillaGold Excel-sheet.png)
+![My Image](VillaGold.png)
